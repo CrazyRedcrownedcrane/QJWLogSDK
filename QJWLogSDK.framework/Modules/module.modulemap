@@ -1,0 +1,6 @@
+framework module QJWLogSDK {
+  umbrella header "QJWLogSDK.h"
+
+  export *
+  module * { export * }
+}
